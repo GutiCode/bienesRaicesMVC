@@ -1,0 +1,5 @@
+node_modules
+vendor
+DS_STORE
+Usuario.php
+includes/.env
